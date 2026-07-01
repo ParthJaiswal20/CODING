@@ -1,2 +1,1 @@
-Collection of coding questions and practice 
-PARTH JAISWAL
+Collection of coding questions and practice
