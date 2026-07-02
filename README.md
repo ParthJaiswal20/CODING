@@ -1,1 +1,9 @@
 Collection of coding questions and practice
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthJaiswal20/CODING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+<!---LeetCode Topics End-->
