@@ -21,8 +21,13 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ParthJaiswal20/CODING/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/ParthJaiswal20/CODING/tree/master/2460-apply-operations-to-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ParthJaiswal20/CODING/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
