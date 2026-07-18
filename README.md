@@ -7,6 +7,7 @@ Collection of coding questions and practice
 | ------- |
 | [0001-two-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/ParthJaiswal20/CODING/tree/master/2460-apply-operations-to-an-array) |
@@ -36,4 +38,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
