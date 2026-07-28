@@ -10,6 +10,7 @@ Collection of coding questions and practice
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthJaiswal20/CODING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -53,4 +54,16 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
