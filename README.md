@@ -8,6 +8,7 @@ Collection of coding questions and practice
 | [0001-two-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ParthJaiswal20/CODING/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ParthJaiswal20/CODING/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 ## Sorting
@@ -81,4 +83,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ParthJaiswal20/CODING/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
