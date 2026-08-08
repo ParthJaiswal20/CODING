@@ -7,6 +7,7 @@ Collection of coding questions and practice
 | ------- |
 | [0001-two-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
@@ -31,6 +32,7 @@ Collection of coding questions and practice
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParthJaiswal20/CODING/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -86,5 +88,6 @@ Collection of coding questions and practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
