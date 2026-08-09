@@ -15,6 +15,7 @@ Collection of coding questions and practice
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthJaiswal20/CODING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -51,11 +52,13 @@ Collection of coding questions and practice
 | [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ParthJaiswal20/CODING/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +68,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +94,8 @@ Collection of coding questions and practice
 | ------- |
 | [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
