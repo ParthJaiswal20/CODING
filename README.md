@@ -20,6 +20,7 @@ Collection of coding questions and practice
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthJaiswal20/CODING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ParthJaiswal20/CODING/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/ParthJaiswal20/CODING/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/ParthJaiswal20/CODING/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ Collection of coding questions and practice
 | [0128-longest-consecutive-sequence](https://github.com/ParthJaiswal20/CODING/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/ParthJaiswal20/CODING/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of coding questions and practice
 | ------- |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/ParthJaiswal20/CODING/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
