@@ -7,6 +7,7 @@ Collection of coding questions and practice
 | ------- |
 | [0001-two-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParthJaiswal20/CODING/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
@@ -76,6 +77,7 @@ Collection of coding questions and practice
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParthJaiswal20/CODING/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
