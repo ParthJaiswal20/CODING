@@ -132,4 +132,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ParthJaiswal20/CODING/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
