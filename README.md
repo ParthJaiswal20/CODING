@@ -29,6 +29,7 @@ Collection of coding questions and practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ParthJaiswal20/CODING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ParthJaiswal20/CODING/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ParthJaiswal20/CODING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ParthJaiswal20/CODING/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthJaiswal20/CODING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ParthJaiswal20/CODING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/ParthJaiswal20/CODING/tree/master/2404-most-frequent-even-element) |
@@ -72,6 +73,7 @@ Collection of coding questions and practice
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ParthJaiswal20/CODING/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of coding questions and practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ParthJaiswal20/CODING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ParthJaiswal20/CODING/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ParthJaiswal20/CODING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ParthJaiswal20/CODING/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sliding Window
 |  |
 | ------- |
