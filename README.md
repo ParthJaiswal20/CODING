@@ -41,6 +41,7 @@ Collection of coding questions and practice
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ParthJaiswal20/CODING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/ParthJaiswal20/CODING/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -139,4 +140,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ParthJaiswal20/CODING/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
