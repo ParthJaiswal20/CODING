@@ -57,6 +57,7 @@ Collection of coding questions and practice
 | [0002-add-two-numbers](https://github.com/ParthJaiswal20/CODING/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParthJaiswal20/CODING/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -127,6 +128,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Collection of coding questions and practice
 | [0002-add-two-numbers](https://github.com/ParthJaiswal20/CODING/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -187,4 +190,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ParthJaiswal20/CODING/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
