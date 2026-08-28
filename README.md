@@ -186,6 +186,7 @@ Collection of coding questions and practice
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -199,4 +200,12 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ParthJaiswal20/CODING/tree/master/0125-valid-palindrome) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
