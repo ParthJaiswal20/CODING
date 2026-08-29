@@ -187,6 +187,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ParthJaiswal20/CODING/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
@@ -205,6 +206,7 @@ Collection of coding questions and practice
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ParthJaiswal20/CODING/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
