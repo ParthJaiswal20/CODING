@@ -186,6 +186,7 @@ Collection of coding questions and practice
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
@@ -199,6 +200,7 @@ Collection of coding questions and practice
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ParthJaiswal20/CODING/tree/master/0125-valid-palindrome) |
 ## Design
 |  |
@@ -208,4 +210,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
