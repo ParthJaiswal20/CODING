@@ -24,6 +24,7 @@ Collection of coding questions and practice
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ParthJaiswal20/CODING/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ParthJaiswal20/CODING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -80,6 +81,7 @@ Collection of coding questions and practice
 | [0160-intersection-of-two-linked-lists](https://github.com/ParthJaiswal20/CODING/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 | [2404-most-frequent-even-element](https://github.com/ParthJaiswal20/CODING/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
@@ -190,6 +192,7 @@ Collection of coding questions and practice
 | [0155-min-stack](https://github.com/ParthJaiswal20/CODING/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -216,4 +219,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
