@@ -25,6 +25,7 @@ Collection of coding questions and practice
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ParthJaiswal20/CODING/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ParthJaiswal20/CODING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -193,6 +194,7 @@ Collection of coding questions and practice
 | [0232-implement-queue-using-stacks](https://github.com/ParthJaiswal20/CODING/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0503-next-greater-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -223,4 +225,5 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
