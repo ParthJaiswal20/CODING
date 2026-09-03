@@ -77,6 +77,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ParthJaiswal20/CODING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ParthJaiswal20/CODING/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ParthJaiswal20/CODING/tree/master/0141-linked-list-cycle) |
@@ -125,6 +126,7 @@ Collection of coding questions and practice
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ParthJaiswal20/CODING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -209,6 +211,7 @@ Collection of coding questions and practice
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ParthJaiswal20/CODING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ParthJaiswal20/CODING/tree/master/0125-valid-palindrome) |
 ## Design
