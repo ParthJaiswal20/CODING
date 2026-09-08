@@ -27,6 +27,7 @@ Collection of coding questions and practice
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ParthJaiswal20/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/ParthJaiswal20/CODING/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/ParthJaiswal20/CODING/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ParthJaiswal20/CODING/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +90,7 @@ Collection of coding questions and practice
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ParthJaiswal20/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ParthJaiswal20/CODING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0930-binary-subarrays-with-sum) |
 | [2404-most-frequent-even-element](https://github.com/ParthJaiswal20/CODING/tree/master/2404-most-frequent-even-element) |
@@ -141,6 +143,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ParthJaiswal20/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ParthJaiswal20/CODING/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
