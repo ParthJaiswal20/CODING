@@ -67,6 +67,7 @@ Collection of coding questions and practice
 | [0002-add-two-numbers](https://github.com/ParthJaiswal20/CODING/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ParthJaiswal20/CODING/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ParthJaiswal20/CODING/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParthJaiswal20/CODING/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -207,6 +208,7 @@ Collection of coding questions and practice
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParthJaiswal20/CODING/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ParthJaiswal20/CODING/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -257,4 +259,8 @@ Collection of coding questions and practice
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0503-next-greater-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ParthJaiswal20/CODING/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
