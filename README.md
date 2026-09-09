@@ -36,6 +36,7 @@ Collection of coding questions and practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ParthJaiswal20/CODING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ParthJaiswal20/CODING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ParthJaiswal20/CODING/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ParthJaiswal20/CODING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ParthJaiswal20/CODING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ParthJaiswal20/CODING/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ParthJaiswal20/CODING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -145,6 +146,7 @@ Collection of coding questions and practice
 | [1004-max-consecutive-ones-iii](https://github.com/ParthJaiswal20/CODING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ParthJaiswal20/CODING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ParthJaiswal20/CODING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ParthJaiswal20/CODING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Collection of coding questions and practice
 | [0930-binary-subarrays-with-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ParthJaiswal20/CODING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ParthJaiswal20/CODING/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ParthJaiswal20/CODING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
