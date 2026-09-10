@@ -38,6 +38,7 @@ Collection of coding questions and practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ParthJaiswal20/CODING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ParthJaiswal20/CODING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ParthJaiswal20/CODING/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ParthJaiswal20/CODING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ParthJaiswal20/CODING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ParthJaiswal20/CODING/tree/master/1552-magnetic-force-between-two-balls) |
