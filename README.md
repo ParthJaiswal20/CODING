@@ -30,6 +30,7 @@ Collection of coding questions and practice
 | [0540-single-element-in-a-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ParthJaiswal20/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/ParthJaiswal20/CODING/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/ParthJaiswal20/CODING/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ParthJaiswal20/CODING/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ParthJaiswal20/CODING/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0930-binary-subarrays-with-sum) |
@@ -271,4 +272,5 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ParthJaiswal20/CODING/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
