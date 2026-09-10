@@ -23,6 +23,7 @@ Collection of coding questions and practice
 | [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0503-next-greater-element-ii) |
@@ -57,6 +58,7 @@ Collection of coding questions and practice
 | [0189-rotate-array](https://github.com/ParthJaiswal20/CODING/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ParthJaiswal20/CODING/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -107,6 +109,7 @@ Collection of coding questions and practice
 | [0148-sort-list](https://github.com/ParthJaiswal20/CODING/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ParthJaiswal20/CODING/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
@@ -180,6 +183,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -263,4 +267,8 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ParthJaiswal20/CODING/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
