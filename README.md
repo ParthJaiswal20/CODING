@@ -10,6 +10,7 @@ Collection of coding questions and practice
 | [0033-search-in-rotated-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ParthJaiswal20/CODING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParthJaiswal20/CODING/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
@@ -166,6 +167,7 @@ Collection of coding questions and practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
@@ -274,6 +276,7 @@ Collection of coding questions and practice
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ParthJaiswal20/CODING/tree/master/0860-lemonade-change) |
