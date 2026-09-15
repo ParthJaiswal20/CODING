@@ -171,6 +171,7 @@ Collection of coding questions and practice
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ParthJaiswal20/CODING/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Collection of coding questions and practice
 | [0234-palindrome-linked-list](https://github.com/ParthJaiswal20/CODING/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ParthJaiswal20/CODING/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ParthJaiswal20/CODING/tree/master/0735-asteroid-collision) |
 ## Merge Sort
 |  |
@@ -250,6 +252,7 @@ Collection of coding questions and practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParthJaiswal20/CODING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ParthJaiswal20/CODING/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ParthJaiswal20/CODING/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ParthJaiswal20/CODING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Design
 |  |
@@ -264,6 +267,7 @@ Collection of coding questions and practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthJaiswal20/CODING/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ParthJaiswal20/CODING/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,5 +283,6 @@ Collection of coding questions and practice
 | [0045-jump-game-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ParthJaiswal20/CODING/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ParthJaiswal20/CODING/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
