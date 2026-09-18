@@ -16,6 +16,7 @@ Collection of coding questions and practice
 | [0048-rotate-image](https://github.com/ParthJaiswal20/CODING/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ParthJaiswal20/CODING/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -115,6 +116,7 @@ Collection of coding questions and practice
 | ------- |
 | [0015-3sum](https://github.com/ParthJaiswal20/CODING/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ParthJaiswal20/CODING/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ParthJaiswal20/CODING/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ParthJaiswal20/CODING/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
@@ -195,6 +197,7 @@ Collection of coding questions and practice
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ParthJaiswal20/CODING/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ParthJaiswal20/CODING/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 ## Bubble Sort
