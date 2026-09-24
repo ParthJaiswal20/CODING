@@ -28,6 +28,7 @@ Collection of coding questions and practice
 | [0209-minimum-size-subarray-sum](https://github.com/ParthJaiswal20/CODING/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ParthJaiswal20/CODING/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/ParthJaiswal20/CODING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ParthJaiswal20/CODING/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ParthJaiswal20/CODING/tree/master/0496-next-greater-element-i) |
@@ -121,6 +122,7 @@ Collection of coding questions and practice
 | [0148-sort-list](https://github.com/ParthJaiswal20/CODING/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ParthJaiswal20/CODING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/ParthJaiswal20/CODING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ParthJaiswal20/CODING/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
@@ -178,6 +180,7 @@ Collection of coding questions and practice
 | [0045-jump-game-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ParthJaiswal20/CODING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/ParthJaiswal20/CODING/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ParthJaiswal20/CODING/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ParthJaiswal20/CODING/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
@@ -291,6 +294,7 @@ Collection of coding questions and practice
 | ------- |
 | [0045-jump-game-ii](https://github.com/ParthJaiswal20/CODING/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ParthJaiswal20/CODING/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/ParthJaiswal20/CODING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ParthJaiswal20/CODING/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ParthJaiswal20/CODING/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ParthJaiswal20/CODING/tree/master/0860-lemonade-change) |
